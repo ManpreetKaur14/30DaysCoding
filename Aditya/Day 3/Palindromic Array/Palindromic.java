@@ -37,6 +37,7 @@ public class Palindromic {
             System.out.println("The above array is palindromic: TRUE");
         else
             System.out.println("The above array is not palindromic: FALSE");
+        sc.close();
     }
     
 }
