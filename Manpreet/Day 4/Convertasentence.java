@@ -16,6 +16,7 @@ public class Convertasentence
          Scanner sc= new Scanner(System.in);
          System.out.println("enter the string:");
          String s=sc.nextLine();
+         s=s.toUpperCase();
          String m="";
          int n = s.length();
             for (int i=0; i<n; i++)
