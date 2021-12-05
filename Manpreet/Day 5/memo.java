@@ -29,7 +29,7 @@ class memo
     }
     public static void main(String[] args)
     {
-        arr[0]=1;
+        arr[0]=0;
         arr[1]=1;
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
